@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">lab3_v2</string>
+    <string name="back">Back</string>
+    <string name="date">Date</string>
+    <string name="yyyy_mm_dd">yyyy-mm-dd</string>
+    <string name="title">Title</string>
+    <string name="name_of_item_or_service">name of item or service</string>
+    <string name="description">Description</string>
+    <string name="expense_description">expense description</string>
+    <string name="amount">Amount</string>
+    <string name="input_amount_in_peso">input amount in peso</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_expenses_list">View Expenses List</string>
+    <string name="jasmine_camasura_202110356">Jasmine Camasura - 202110356</string>
+    <string name="my_expenses">MY EXPENSE</string>
+    <string name="category">Category</string>
+    <string name="list_of_expenses">List of Expenses</string>
+    <string name="date_h">Date</string>
+    <string name="title_h">Title</string>
+    <string name="description_h">Description</string>
+    <string name="amount_h">Amount</string>
+    <string name="category_h">Category</string>
+    <string name="pick_date">Pick Date</string>
+    <string-array name="categories">
+        <item>-- select --</item>
+        <item>Utilities</item>
+        <item>Food</item>
+        <item>Savings</item>
+        <item>Housing</item>
+        <item>Transportation</item>
+    </string-array>
+</resources>
