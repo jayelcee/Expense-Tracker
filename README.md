@@ -7,18 +7,18 @@ Running Virtual Device: 8 Fold-out API 34
 
 ## 🚀 **Features**
 
-📝 **Add Expenses**: Record your daily expenses with categories (e.g., food, transportation, entertainment).
-📅 **View History**: Easily view a history of your recorded expenses.
-📊 **Expense Summary**: Get an overview of your total spending.
-🗂️ **Categories**: Organize expenses by categories for better tracking.
-💾 **Data Persistence**: Expenses are stored locally for offline access.
+📝 **Add Expenses**: Record your daily expenses with categories (e.g., food, transportation, entertainment).  
+📅 **View History**: Easily view a history of your recorded expenses.  
+📊 **Expense Summary**: Get an overview of your total spending.  
+🗂️ **Categories**: Organize expenses by categories for better tracking.  
+💾 **Data Persistence**: Expenses are stored locally for offline access.  
 
 ## 🛠️ **Technologies Used**
-💻 **Language**: Java
-📱 **Platform**: Android
-🗄️ **Database**: SQLite for data storage
-🎨 **UI**: XML layouts in Android Studio
-🛠️ **Tools**: Android Studio, Git for version control
+💻 **Language**: Java  
+📱 **Platform**: Android  
+🗄️ **Database**: SQLite for data storage  
+🎨 **UI**: XML layouts in Android Studio  
+🛠️ **Tools**: Android Studio, Git for version control  
 
 ## 📸 **Screenshot**
 
@@ -34,9 +34,9 @@ git clone https://github.com/jayelcee/Expense-Tracker.git
 
 ### 2. Open in Android Studio
 
-📂 Open the project in **Android Studio**.
-🔄 Sync Gradle and build the project.
+📂 Open the project in **Android Studio**.  
+🔄 Sync Gradle and build the project.  
 
 ### 3. Run the App
 
-▶️ Build and run the app on an emulator or a physical device.
+▶️ Build and run the app on an emulator or a physical device.  
