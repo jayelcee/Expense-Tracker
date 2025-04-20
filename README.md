@@ -40,3 +40,7 @@ git clone https://github.com/jayelcee/Expense-Tracker.git
 ### 3. Run the App
 
 ▶️ Build and run the app on an emulator or a physical device.  
+
+## 🙌 Acknowledgements
+
+Thanks for checking out the project! Feel free to ⭐ this repo if you found it helpful.  
